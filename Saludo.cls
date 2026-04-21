@@ -2,7 +2,7 @@ public with sharing class Saludo {
 
     public static String saludar(String nombre) {
         
-        String saludo = 'Buenas, ' + nombre + '? Salesforce te da la bienvenida';
+        String saludo = 'Buenos días, ' + nombre + '? Salesforce te da la bienvenida';
 
        
         return saludo;
